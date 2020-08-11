@@ -9,16 +9,16 @@ This project features Jamie's Office change App - her vacation is about to end a
 3. Madrid
 
 We give her the city respective weather forecast and cheap flight details so she can choose her city.
-You can see the LIVE instance of the app here: 
+The LIVE version of this page is hosted on githubPages on this [link](https://1274558.github.io/Jamie_Vacation/index.html)
 
-Technical details: 
+The application is built in Vue.js and Vue CLI is used to run the application.
+Vuetify which is a Vue UI library is used in the application to provide material components.
+Fontawesome is used to provide icons
+Axios is used for making server calls.
 
-The following have been used to create the application:
-1. Nodejs (You need to have nodejs installed on your machine in order to run the application. You can download nodejs from https://nodejs.org/en/download/)
-2. Vue.js
-3. Vuetify
-4. Fontawesome(for icons)
-5. Axios (for server calls)
+Pre-requisite:
+
+Nodejs (You need to have nodejs installed on your machine in order to run the application. You can download nodejs from https://nodejs.org/en/download/)
 
 ## Project setup
 ```
