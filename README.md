@@ -20,6 +20,14 @@ Pre-requisite:
 
 Nodejs (You need to have nodejs installed on your machine in order to run the application. You can download nodejs from https://nodejs.org/en/download/)
 
+The possible areas of improvement could be:
+
+1. Allow the user to enter the source city only from a list of international countries as she is at an international office currently.
+2. Provide secure encryption by encrypting the API key and caching the response from the service.
+3. UI responsiveness on various devices.
+4. Improve code coverage by writing more unit tests.
+5. An addition can be that she can be shown her new office details in the city that she chooses to go to.
+
 ## Project setup
 ```
 npm install
